@@ -1,0 +1,15 @@
+D:\GuilhermeFerrari\Exame\Exame\bin\Debug\net6.0\Exame.exe
+D:\GuilhermeFerrari\Exame\Exame\bin\Debug\net6.0\Exame.deps.json
+D:\GuilhermeFerrari\Exame\Exame\bin\Debug\net6.0\Exame.runtimeconfig.json
+D:\GuilhermeFerrari\Exame\Exame\bin\Debug\net6.0\Exame.dll
+D:\GuilhermeFerrari\Exame\Exame\bin\Debug\net6.0\Exame.pdb
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.csproj.AssemblyReference.cache
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.AssemblyInfoInputs.cache
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.AssemblyInfo.cs
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.csproj.CoreCompileInputs.cache
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.dll
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\refint\Exame.dll
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.pdb
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\Exame.genruntimeconfig.cache
+D:\GuilhermeFerrari\Exame\Exame\obj\Debug\net6.0\ref\Exame.dll
